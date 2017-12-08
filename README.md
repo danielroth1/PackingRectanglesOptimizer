@@ -23,7 +23,7 @@ java main.GuiControl
 Visualization after the execution of a local search run: the dashed line represents the surrounding rectangle of the previously greedily applied approach.
 ![packing rectangles optimizer_191](https://user-images.githubusercontent.com/34305776/33768229-8494a998-dc25-11e7-929e-eb608a5a0477.png)
 
-Test results:
+Example test results: The red bard indicates the improvements from the greedy approach.
 ![_192](https://user-images.githubusercontent.com/34305776/33768245-9083452a-dc25-11e7-99b9-2ab8368672c3.png)
 
 
